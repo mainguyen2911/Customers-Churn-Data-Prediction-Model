@@ -4,7 +4,7 @@ Predicting whether a customer will exit the bank's service using multiple Machin
 This repository includes:
 * **README.md**
 * **LICENSE**
-* **Customers-Churn-Data-Prediction-Model.ipybn**
+* **Customers-Churn-Data-Prediction-Model.ipybn**: To see interactive plot, please access the [NBViewer](https://nbviewer.org/github/mainguyen2911/Customers-Churn-Data-Prediction-Model/blob/main/Customers-Churn-Data-Prediction-Model.ipynb).
 
 What are includes in the project?
 * Data Extraction and Cleaning
